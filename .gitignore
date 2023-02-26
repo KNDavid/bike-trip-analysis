@@ -1,0 +1,8 @@
+# ignore all .csv files
+*.csv
+
+#ignore all .tpl files
+*.tpl
+
+#ignore all notebook checkpoint files
+*.ipynb_checkpoints
